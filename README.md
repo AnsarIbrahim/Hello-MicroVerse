@@ -168,7 +168,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="AnsarIbrahim"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
